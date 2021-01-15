@@ -1,0 +1,43 @@
+html{
+  font-size: 20px;  
+  font-family: 'JetBrains Mono', monospace;
+  }
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: #dbd3f1;
+  padding: 0 20px 20px 20px;
+  text-align: center;    
+  }
+h1{  
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px rgb(154, 142, 209);     
+  font-size: 40px; 
+  color:rgb(17, 23, 73);
+  }
+
+#container{
+  width: 350px;
+  height:350px;
+  border: 7px solid rgb(17, 23, 73);;
+  display: grid;
+  margin-bottom: 10px;
+  }
+
+.element {
+  border: 1px solid;
+  border-color: black;
+  background-color: rgba(153, 231, 255, 0.596);
+}
+
+button {
+  margin: 10px;
+}
+
+footer{
+  font-size: large;
+}
