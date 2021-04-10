@@ -1,4 +1,4 @@
-# CSS-Frameworks
+# Etch-a-Sketch-project
 
 In this project I creat a browser version of something between a sketchpad and an Etch-A-Sketch.
 
