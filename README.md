@@ -1,6 +1,6 @@
 # CSS-Frameworks
 
-In this project, we will replicate an archived version of the Newsweek website using bootstrap.
+In this project I creat a browser version of something between a sketchpad and an Etch-A-Sketch.
 
 ![screenshot](https://github.com/petumazo/etch-a-sketch-project/blob/main/imgs/project-screenshot.png)
 
